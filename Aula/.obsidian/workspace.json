@@ -30,8 +30,13 @@
             "id": "87f0caa577e3f339",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Renascença.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -101,6 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Renascença.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,6 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Renascença.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +145,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Renascença.md"
+              }
             }
           }
         ],
@@ -161,8 +170,8 @@
   },
   "active": "87f0caa577e3f339",
   "lastOpenFiles": [
-    "Renascença.md",
     "Divina Comédia - Dante.md",
+    "Renascença.md",
     "Welcome.md",
     "create a link.md"
   ]
