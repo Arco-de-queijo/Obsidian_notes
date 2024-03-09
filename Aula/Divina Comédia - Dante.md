@@ -1,1 +1,1 @@
-	
+A "Divina Comédia" de Dante Alighieri é frequentemente considerada uma obra Extremamente importante da [[Renascença]], apesar de ter sido escrita no início do século XIV. A obra incorpora muitas das correntes intelectuais, artísticas e filosóficas que caracterizaram a Renascença. Através da sua síntese de elementos clássicos e cristãos, da exploração de experiências individuais, da investigação teológica, da inovação artística e da alegoria política, a obra-prima de Dante constitui um testemunho do espírito do Renascimento.

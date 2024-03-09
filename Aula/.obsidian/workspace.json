@@ -101,7 +101,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Divina Comédia - Dante.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +117,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Divina Comédia - Dante.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,25 +138,16 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Divina Comédia - Dante.md"
-              }
-            }
-          },
-          {
-            "id": "1382c30ae740681e",
-            "type": "leaf",
-            "state": {
-              "type": "copilot-chat-view",
               "state": {}
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 425.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -167,14 +156,13 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "copilot:Copilot Chat": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "1382c30ae740681e",
+  "active": "87f0caa577e3f339",
   "lastOpenFiles": [
+    "Renascença.md",
     "Divina Comédia - Dante.md",
-    "Sample.md",
     "Welcome.md",
     "create a link.md"
   ]
