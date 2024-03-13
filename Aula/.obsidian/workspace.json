@@ -4,35 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e6ed8a27b67c34b7",
+        "id": "5333b090c4e88dd7",
         "type": "tabs",
         "children": [
           {
-            "id": "d9533f48a9844e5f",
+            "id": "ee12271e697b91de",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Divina Comédia - Dante.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "dae7331d5f9e1d1f",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "87f0caa577e3f339",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Renascença.md",
+                "file": "História/História 13.03.2024.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -106,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Divina Comédia - Dante.md",
+                "file": "História/História 13.03.2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Divina Comédia - Dante.md",
+                "file": "História/História 13.03.2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Divina Comédia - Dante.md"
+                "file": "História/História 13.03.2024.md"
               }
             }
           }
@@ -168,10 +149,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d9533f48a9844e5f",
+  "active": "ee12271e697b91de",
   "lastOpenFiles": [
+    "História/História 13.03.2024.md",
     "Renascença.md",
+    "História/Untitled",
+    "História",
+    "A Criação de Adão.md",
     "Divina Comédia - Dante.md",
+    "O Anjo Caído.md",
     "Welcome.md",
     "create a link.md"
   ]
