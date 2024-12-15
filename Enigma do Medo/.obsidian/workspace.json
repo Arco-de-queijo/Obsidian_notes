@@ -4,40 +4,27 @@
     "type": "split",
     "children": [
       {
-        "id": "241407cd613ef92b",
+        "id": "ed2314242316fa3a",
         "type": "tabs",
         "children": [
           {
-            "id": "578f2820d68a9cd1",
+            "id": "ace17cdbec9a1ecd",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "Mapa_mental.canvas",
                 "viewState": {
-                  "x": -200,
-                  "y": -90,
+                  "x": 120,
+                  "y": -150,
                   "zoom": 0
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
-            }
-          },
-          {
-            "id": "7a894bfc70fb788d",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.7"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.7"
+              "title": "Mapa_mental"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -89,8 +76,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -110,6 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Mapa_mental.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +106,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Mapa_mental"
             }
           },
           {
@@ -128,11 +115,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Mapa_mental.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Mapa_mental"
             }
           },
           {
@@ -153,9 +141,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "Mapa_mental.canvas"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Mapa_mental"
             }
           }
         ],
@@ -176,11 +166,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7a894bfc70fb788d",
+  "active": "ace17cdbec9a1ecd",
   "lastOpenFiles": [
-    "Untitled",
-    "Pasted image 20241215121415.png",
-    "Untitled.canvas",
+    "Documentos/Meu Diário de Evidências.md",
+    "Mapa_mental.canvas",
+    "Documentos",
+    "Runas_tela_inicial.png",
     "Divina Comédia - Dante.md",
     "A Criação de Adão.md",
     "O Anjo Caído.md",
