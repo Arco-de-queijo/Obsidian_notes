@@ -4,18 +4,40 @@
     "type": "split",
     "children": [
       {
-        "id": "5333b090c4e88dd7",
+        "id": "241407cd613ef92b",
         "type": "tabs",
         "children": [
           {
-            "id": "ee12271e697b91de",
+            "id": "578f2820d68a9cd1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "canvas",
+              "state": {
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": -200,
+                  "y": -90,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled"
+            }
+          },
+          {
+            "id": "7a894bfc70fb788d",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.7"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.7"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -35,7 +57,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -50,7 +74,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -58,10 +84,13 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -88,7 +117,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
             }
           },
           {
@@ -99,7 +130,9 @@
               "state": {
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
             }
           },
           {
@@ -110,7 +143,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -118,7 +153,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
             }
           }
         ],
@@ -139,15 +176,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6aa76de44b18bcb5",
+  "active": "7a894bfc70fb788d",
   "lastOpenFiles": [
-    "História/História 13.03.2024.md",
+    "Untitled",
+    "Pasted image 20241215121415.png",
+    "Untitled.canvas",
+    "Divina Comédia - Dante.md",
+    "A Criação de Adão.md",
+    "O Anjo Caído.md",
     "Renascença.md",
+    "História/História 13.03.2024.md",
     "História/Untitled",
     "História",
-    "A Criação de Adão.md",
-    "Divina Comédia - Dante.md",
-    "O Anjo Caído.md",
     "Welcome.md",
     "create a link.md"
   ]
