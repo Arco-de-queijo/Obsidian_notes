@@ -15,10 +15,10 @@
 		{"id":"1f7dd9469ee1ba66","type":"file","file":"Runas Porão.png","x":-1015,"y":28,"width":268,"height":247},
 		{"id":"c94b84b3bc3aed57","type":"file","file":"Pasted image 20241215150140.png","x":320,"y":-32,"width":240,"height":184},
 		{"id":"6d989de7477a4519","type":"file","file":"Pasted image 20241215150202.png","x":-243,"y":-108,"width":217,"height":212},
-		{"id":"4e1542c54dd52f24","type":"file","file":"Pasted image 20241215150159.png","x":-26,"y":-100,"width":223,"height":204},
-		{"id":"ae18f5dfd001d8d2","x":-160,"y":-1320,"width":200,"height":278,"type":"file","file":"Pasted image 20241215164739.png"},
-		{"id":"dd8367dbc06cedd1","x":-21,"y":-279,"width":218,"height":171,"type":"file","file":"Pasted image 20241215170534.png"},
-		{"id":"c4d0f13ae6474574","x":40,"y":-1320,"width":242,"height":212,"type":"file","file":"Pasted image 20241215171643.png"}
+		{"id":"4e1542c54dd52f24","type":"file","file":"Pasted image 20241215150159.png","x":-26,"y":-100,"width":223,"height":203},
+		{"id":"ae18f5dfd001d8d2","type":"file","file":"Pasted image 20241215164739.png","x":-160,"y":-1320,"width":200,"height":278},
+		{"id":"dd8367dbc06cedd1","type":"file","file":"Pasted image 20241215170534.png","x":-21,"y":-279,"width":218,"height":171},
+		{"id":"c4d0f13ae6474574","type":"file","file":"Pasted image 20241215171643.png","x":40,"y":-1320,"width":242,"height":212}
 	],
 	"edges":[
 		{"id":"5acf20f5ff36b2e0","fromNode":"e3b96ccf11422c46","fromSide":"bottom","toNode":"762e8fad6865e07f","toSide":"top","label":"Strach??\nSímbolos"},
