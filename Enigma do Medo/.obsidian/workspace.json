@@ -25,6 +25,18 @@
             }
           },
           {
+            "id": "4beda23a0bfa9766",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Runas Porão.png"
+              },
+              "icon": "lucide-image",
+              "title": "Runas Porão"
+            }
+          },
+          {
             "id": "125a1a44e064bd1f",
             "type": "leaf",
             "state": {
@@ -61,7 +73,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -203,20 +215,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2fb1d52cc4cd437b",
+  "active": "4beda23a0bfa9766",
   "lastOpenFiles": [
     "Deus do Medo.canvas",
+    "Pasted image 20241215150202.png",
+    "Pasted image 20241215150159.png",
+    "Runas Porão.png",
+    "Pasted image 20241215150140.png",
+    "Pasted image 20241215150132.png",
+    "Família [starch].png",
+    "Mapa Mansão.png",
     "Pasted image 20241215145541.png",
     "Pasted image 20241215145529.png",
     "Andrea Strach.png",
     "Equipe Elite.canvas",
-    "Carta do Verissimo para a Mia.png",
-    "Mapa Mansão.png",
-    "Família Símbolos.png",
-    "Família [starch].png",
-    "Deus do medo.png",
-    "Pasted image 20241215142520.png",
-    "Pasted image 20241215142152.png",
     "Documentos/Família Strach.md",
     "Documentos/Meu Diário de Evidências.md",
     "Documentos",
