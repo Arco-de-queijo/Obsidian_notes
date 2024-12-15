@@ -15,30 +15,13 @@
               "state": {
                 "file": "Deus do Medo.canvas",
                 "viewState": {
-                  "x": -434.5,
-                  "y": -394,
+                  "x": -956.9864204445948,
+                  "y": -375.86957979281715,
                   "zoom": -1.042838935079375
                 }
               },
               "icon": "lucide-layout-dashboard",
               "title": "Deus do Medo"
-            }
-          },
-          {
-            "id": "965173310497b286",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Equipe Elite.canvas",
-                "viewState": {
-                  "x": -9,
-                  "y": -12.5,
-                  "zoom": -0.09893586749044779
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Equipe Elite"
             }
           },
           {
@@ -77,8 +60,7 @@
               "title": "Mapa Mansão"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -220,13 +202,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2fb1d52cc4cd437b",
+  "active": "ace17cdbec9a1ecd",
   "lastOpenFiles": [
+    "Equipe Elite.canvas",
+    "Carta do Verissimo para a Mia.png",
+    "Deus do Medo.canvas",
+    "Mapa Mansão.png",
     "Família Símbolos.png",
     "Família [starch].png",
-    "Mapa Mansão.png",
-    "Equipe Elite.canvas",
-    "Deus do Medo.canvas",
     "Deus do medo.png",
     "Pasted image 20241215142520.png",
     "Pasted image 20241215142152.png",
@@ -235,7 +218,6 @@
     "Pasted image 20241215140711.png",
     "Documentos/Família Strach.md",
     "Documentos/Meu Diário de Evidências.md",
-    "Pasted image 20241215135646.png",
     "Documentos",
     "Divina Comédia - Dante.md",
     "A Criação de Adão.md",
