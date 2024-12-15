@@ -15,16 +15,29 @@
               "state": {
                 "file": "Deus do Medo.canvas",
                 "viewState": {
-                  "x": -713.699951171875,
-                  "y": -492.70001220703125,
-                  "zoom": 0
+                  "x": -434.5,
+                  "y": -394,
+                  "zoom": -1.042838935079375
                 }
               },
               "icon": "lucide-layout-dashboard",
               "title": "Deus do Medo"
             }
+          },
+          {
+            "id": "2fb1d52cc4cd437b",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Mapa Mansão.png"
+              },
+              "icon": "lucide-image",
+              "title": "Mapa Mansão"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -166,24 +179,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ace17cdbec9a1ecd",
+  "active": "2fb1d52cc4cd437b",
   "lastOpenFiles": [
+    "Deus do Medo.canvas",
+    "Equipe Elite.canvas",
+    "Mapa Mansão.png",
     "Pasted image 20241215140711.png",
     "Documentos/Família Strach.md",
     "Documentos/Meu Diário de Evidências.md",
-    "Equipe Elite.canvas",
     "Pasted image 20241215135646.png",
     "Pasted image 20241215135620.png",
     "Pasted image 20241215135521.png",
-    "Deus do Medo.canvas",
     "Perimetro.png",
     "Deus do medo.png",
     "Ficha de Agente Calisto Besatt.png",
     "Família Símbolos.png",
     "Família [starch].png",
-    "CNH_Verissimo.png",
     "Documentos",
-    "Runas_tela_inicial.png",
     "Divina Comédia - Dante.md",
     "A Criação de Adão.md",
     "O Anjo Caído.md",
