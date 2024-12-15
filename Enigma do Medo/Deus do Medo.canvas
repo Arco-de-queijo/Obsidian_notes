@@ -8,7 +8,10 @@
 		{"id":"82c0019101436b54","type":"file","file":"Pasted image 20241215140711.png","x":-1095,"y":-1042,"width":160,"height":166},
 		{"id":"026e0535fdaa7547","type":"file","file":"Pasted image 20241215142520.png","x":-722,"y":-100,"width":355,"height":400},
 		{"id":"b43c8eab55ad5133","type":"file","file":"Runas_tela_inicial.png","x":-1235,"y":-325,"width":300,"height":225},
-		{"id":"762e8fad6865e07f","type":"file","file":"Família Símbolos.png","x":-1600,"y":-120,"width":236,"height":295}
+		{"id":"762e8fad6865e07f","type":"file","file":"Família Símbolos.png","x":-1600,"y":-120,"width":236,"height":295},
+		{"id":"1f4bb2c767106f5e","type":"file","file":"Andrea Strach.png","x":-1686,"y":-947,"width":172,"height":227},
+		{"id":"2abe0d8778c1b65a","x":-160,"y":-764,"width":200,"height":273,"type":"file","file":"Pasted image 20241215145529.png"},
+		{"id":"887387fe171fb64f","x":40,"y":-592,"width":280,"height":101,"type":"file","file":"Pasted image 20241215145541.png"}
 	],
 	"edges":[
 		{"id":"5acf20f5ff36b2e0","fromNode":"e3b96ccf11422c46","fromSide":"bottom","toNode":"762e8fad6865e07f","toSide":"top","label":"Strach??\nSímbolos"},

@@ -15,9 +15,9 @@
               "state": {
                 "file": "Deus do Medo.canvas",
                 "viewState": {
-                  "x": -956.9864204445948,
-                  "y": -375.86957979281715,
-                  "zoom": -1.042838935079375
+                  "x": -780.4700239808153,
+                  "y": -371,
+                  "zoom": -1.1013028820343638
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -60,7 +60,8 @@
               "title": "Mapa Mansão"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -202,20 +203,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ace17cdbec9a1ecd",
+  "active": "2fb1d52cc4cd437b",
   "lastOpenFiles": [
+    "Deus do Medo.canvas",
+    "Pasted image 20241215145541.png",
+    "Pasted image 20241215145529.png",
+    "Andrea Strach.png",
     "Equipe Elite.canvas",
     "Carta do Verissimo para a Mia.png",
-    "Deus do Medo.canvas",
     "Mapa Mansão.png",
     "Família Símbolos.png",
     "Família [starch].png",
     "Deus do medo.png",
     "Pasted image 20241215142520.png",
     "Pasted image 20241215142152.png",
-    "Pasted image 20241215142056.png",
-    "Pasted image 20241215142020.png",
-    "Pasted image 20241215140711.png",
     "Documentos/Família Strach.md",
     "Documentos/Meu Diário de Evidências.md",
     "Documentos",
