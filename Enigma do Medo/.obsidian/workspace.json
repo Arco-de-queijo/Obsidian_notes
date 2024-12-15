@@ -15,8 +15,8 @@
               "state": {
                 "file": "Deus do Medo.canvas",
                 "viewState": {
-                  "x": -820,
-                  "y": -510,
+                  "x": -276.40690694490297,
+                  "y": -369.01416663024145,
                   "zoom": -1.2790900012496467
                 }
               },
@@ -42,6 +42,18 @@
             }
           },
           {
+            "id": "37c2690bc0f6ebec",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Mapas/Mapa Subsolo.png"
+              },
+              "icon": "lucide-image",
+              "title": "Mapa Subsolo"
+            }
+          },
+          {
             "id": "258b7270ea72b98e",
             "type": "leaf",
             "state": {
@@ -56,8 +68,7 @@
               "title": "Meu Diário de Evidências"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -199,23 +210,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f73e33c99667dc81",
+  "active": "ace17cdbec9a1ecd",
   "lastOpenFiles": [
+    "Pasted image 20241215150159.png",
+    "Deus do Medo.canvas",
+    "Pasted image 20241215170534.png",
+    "Mapas/Mapa Subsolo.png",
+    "Equipe Elite.canvas",
     "talvez data de aniversário da Mia.png",
     "Pasted image 20241215165018.png",
     "CNH_Verissimo.png",
-    "Equipe Elite.canvas",
     "Pasted image 20241215164851.png",
-    "Deus do Medo.canvas",
     "Pasted image 20241215164739.png",
     "Documentos/Meu Diário de Evidências.md",
     "Carta do Oswaldo para o Calisto.png",
     "Família Símbolos.png",
     "Família [starch].png",
     "Mapas",
-    "Mapas/Mapa Subsolo.png",
-    "Pasted image 20241215153046.png",
-    "Pasted image 20241215153043.png",
     "Documentos/Família Strach.md",
     "Documentos",
     "Divina Comédia - Dante.md",
