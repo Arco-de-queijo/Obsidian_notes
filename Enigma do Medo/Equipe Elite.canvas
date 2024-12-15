@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"2892076128b1138e","type":"file","file":"CNH_Verissimo.png","x":400,"y":200,"width":200,"height":115},
+		{"id":"f2c44689472d39c9","type":"file","file":"Ficha de Agente Calisto Besatt.png","x":458,"y":26,"width":142,"height":136},
+		{"id":"c2c513ee991ed4ff","type":"file","file":"Perimetro.png","x":-600,"y":-340,"width":280,"height":270},
+		{"id":"1b04180c8366c7ca","type":"file","file":"Pasted image 20241215135521.png","x":-320,"y":-150,"width":107,"height":80},
+		{"id":"5334d932a4f99b5b","type":"file","file":"Pasted image 20241215135646.png","x":-618,"y":-70,"width":316,"height":50},
+		{"id":"35b4c4089c29672f","type":"file","file":"Pasted image 20241215135620.png","x":-600,"y":-18,"width":280,"height":276}
+	],
+	"edges":[]
+}

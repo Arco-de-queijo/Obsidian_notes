@@ -11,17 +11,15 @@
             "id": "ace17cdbec9a1ecd",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Mapa_mental.canvas",
-                "viewState": {
-                  "x": -751.4030015397555,
-                  "y": -369.31688369187174,
-                  "zoom": -0.0415549297043496
-                }
+                "file": "Documentos/Meu Diário de Evidências.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Mapa_mental"
+              "icon": "lucide-file",
+              "title": "Meu Diário de Evidências"
             }
           }
         ]
@@ -43,7 +41,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byModifiedTime"
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -168,11 +166,16 @@
   },
   "active": "ace17cdbec9a1ecd",
   "lastOpenFiles": [
+    "Equipe Elite.canvas",
+    "Documentos/Meu Diário de Evidências.md",
+    "Pasted image 20241215135646.png",
+    "Pasted image 20241215135620.png",
+    "Pasted image 20241215135521.png",
+    "Mapa_mental.canvas",
+    "Perimetro.png",
     "Deus do medo.png",
     "Ficha de Agente Calisto Besatt.png",
-    "Documentos/Meu Diário de Evidências.md",
     "Documentos/Família Strach.md",
-    "Mapa_mental.canvas",
     "Família Símbolos.png",
     "Família [starch].png",
     "CNH_Verissimo.png",
