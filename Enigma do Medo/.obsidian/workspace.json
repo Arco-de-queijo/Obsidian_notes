@@ -64,16 +64,21 @@
             "id": "2fb1d52cc4cd437b",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "canvas",
               "state": {
-                "file": "Mapa Mansão.png"
+                "file": "Equipe Elite.canvas",
+                "viewState": {
+                  "x": -9,
+                  "y": -12.5,
+                  "zoom": -0.09893586749044779
+                }
               },
-              "icon": "lucide-image",
-              "title": "Mapa Mansão"
+              "icon": "lucide-layout-dashboard",
+              "title": "Equipe Elite"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -215,16 +220,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4beda23a0bfa9766",
+  "active": "2fb1d52cc4cd437b",
   "lastOpenFiles": [
+    "Pasted image 20241215152928.png",
+    "Mapa Mansão.png",
+    "Runas Porão.png",
     "Deus do Medo.canvas",
     "Pasted image 20241215150202.png",
     "Pasted image 20241215150159.png",
-    "Runas Porão.png",
     "Pasted image 20241215150140.png",
     "Pasted image 20241215150132.png",
     "Família [starch].png",
-    "Mapa Mansão.png",
     "Pasted image 20241215145541.png",
     "Pasted image 20241215145529.png",
     "Andrea Strach.png",
