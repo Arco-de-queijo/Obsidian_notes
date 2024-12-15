@@ -5,15 +5,16 @@
 		{"id":"1b04180c8366c7ca","type":"file","file":"Pasted image 20241215135521.png","x":-320,"y":-150,"width":107,"height":80},
 		{"id":"5334d932a4f99b5b","type":"file","file":"Pasted image 20241215135646.png","x":-618,"y":-70,"width":316,"height":50},
 		{"id":"35b4c4089c29672f","type":"file","file":"Pasted image 20241215135620.png","x":-600,"y":-18,"width":280,"height":276},
-		{"id":"d48922e1cbb4d787","type":"file","file":"Pasted image 20241215152928.png","x":-80,"y":-360,"width":250,"height":260},
-		{"id":"96dd5b4ddfe542af","type":"file","file":"Pasted image 20241215153046.png","x":-80,"y":-100,"width":249,"height":153},
-		{"id":"b985fec52318b3e4","type":"file","file":"Pasted image 20241215153043.png","x":-80,"y":53,"width":250,"height":156},
 		{"id":"1ebe2d57cbaf6deb","type":"file","file":"Carta do Verissimo para a Mia.png","x":458,"y":-395,"width":142,"height":190},
 		{"id":"189544fc3cf90eba","type":"file","file":"Carta do Oswaldo para o Calisto.png","x":458,"y":-205,"width":142,"height":173},
 		{"id":"b180810489982db6","type":"file","file":"Pasted image 20241215164851.png","x":600,"y":24,"width":209,"height":138},
 		{"id":"2892076128b1138e","type":"file","file":"CNH_Verissimo.png","x":458,"y":200,"width":200,"height":115},
 		{"id":"bd45beca1ac4308c","type":"file","file":"Pasted image 20241215165018.png","x":312,"y":200,"width":146,"height":174},
-		{"id":"bc2754e9fb9a519f","type":"file","file":"talvez data de aniversário da Mia.png","x":458,"y":315,"width":303,"height":133}
+		{"id":"b985fec52318b3e4","type":"file","file":"Pasted image 20241215153043.png","x":0,"y":18,"width":250,"height":156},
+		{"id":"96dd5b4ddfe542af","type":"file","file":"Pasted image 20241215153046.png","x":0,"y":-135,"width":249,"height":153},
+		{"id":"d48922e1cbb4d787","type":"file","file":"Pasted image 20241215152928.png","x":0,"y":-395,"width":250,"height":260},
+		{"id":"4c89c1a880feff83","type":"file","file":"3945.png","x":-266,"y":234,"width":220,"height":106},
+		{"id":"bc2754e9fb9a519f","type":"file","file":"talvez data de aniversário da Mia.png","x":-266,"y":340,"width":220,"height":97}
 	],
 	"edges":[]
 }

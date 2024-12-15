@@ -33,7 +33,7 @@
                 "file": "Equipe Elite.canvas",
                 "viewState": {
                   "x": 95.5,
-                  "y": 26.5,
+                  "y": 21,
                   "zoom": -0.3274070690598786
                 }
               },
@@ -68,7 +68,8 @@
               "title": "Meu Diário de Evidências"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -209,11 +210,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ace17cdbec9a1ecd",
+  "active": "f73e33c99667dc81",
   "lastOpenFiles": [
+    "3945.png",
+    "Deus do Medo.canvas",
     "Pasted image 20241215171643.png",
     "Equipe Elite.canvas",
-    "Deus do Medo.canvas",
     "Pasted image 20241215150159.png",
     "Pasted image 20241215170534.png",
     "Mapas/Mapa Subsolo.png",
@@ -224,7 +226,6 @@
     "Pasted image 20241215164739.png",
     "Documentos/Meu Diário de Evidências.md",
     "Carta do Oswaldo para o Calisto.png",
-    "Família Símbolos.png",
     "Mapas",
     "Documentos/Família Strach.md",
     "Documentos",
