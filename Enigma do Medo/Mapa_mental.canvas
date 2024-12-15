@@ -1,6 +1,7 @@
 {
 	"nodes":[
-		{"id":"b43c8eab55ad5133","type":"file","file":"Runas_tela_inicial.png","x":-480,"y":-480,"width":300,"height":225}
+		{"id":"5f31a76f7a501736","type":"file","file":"CNH_Verissimo.png","x":-800,"y":-80,"width":180,"height":103},
+		{"id":"b43c8eab55ad5133","type":"file","file":"Runas_tela_inicial.png","x":-800,"y":-640,"width":300,"height":225}
 	],
 	"edges":[]
 }
