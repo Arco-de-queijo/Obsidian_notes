@@ -11,15 +11,17 @@
             "id": "ace17cdbec9a1ecd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Documentos/Meu Diário de Evidências.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "Mapa_mental.canvas",
+                "viewState": {
+                  "x": -785.8999938964844,
+                  "y": -308.5,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "Meu Diário de Evidências"
+              "icon": "lucide-layout-dashboard",
+              "title": "Mapa_mental"
             }
           }
         ]
@@ -166,9 +168,12 @@
   },
   "active": "ace17cdbec9a1ecd",
   "lastOpenFiles": [
+    "Família Símbolos.png",
+    "Família [starch].png",
     "Mapa_mental.canvas",
-    "CNH_Verissimo.png",
     "Documentos/Meu Diário de Evidências.md",
+    "Documentos/Família Strach.md",
+    "CNH_Verissimo.png",
     "Documentos",
     "Runas_tela_inicial.png",
     "Divina Comédia - Dante.md",

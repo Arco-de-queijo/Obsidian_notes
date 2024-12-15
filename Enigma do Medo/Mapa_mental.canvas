@@ -1,7 +1,11 @@
 {
 	"nodes":[
 		{"id":"5f31a76f7a501736","type":"file","file":"CNH_Verissimo.png","x":-800,"y":-80,"width":180,"height":103},
-		{"id":"b43c8eab55ad5133","type":"file","file":"Runas_tela_inicial.png","x":-800,"y":-640,"width":300,"height":225}
+		{"id":"b43c8eab55ad5133","type":"file","file":"Runas_tela_inicial.png","x":-800,"y":-640,"width":300,"height":225},
+		{"id":"e3b96ccf11422c46","type":"file","file":"Família [starch].png","x":-1260,"y":-675,"width":240,"height":295},
+		{"id":"762e8fad6865e07f","type":"file","file":"Família Símbolos.png","x":-1256,"y":-360,"width":236,"height":295}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"5acf20f5ff36b2e0","fromNode":"e3b96ccf11422c46","fromSide":"left","toNode":"762e8fad6865e07f","toSide":"left","label":"Strach??\nSímbolos"}
+	]
 }
