@@ -3,11 +3,14 @@
 		{"id":"e3b96ccf11422c46","type":"file","file":"Família [starch].png","x":-1260,"y":-675,"width":240,"height":295},
 		{"id":"762e8fad6865e07f","type":"file","file":"Família Símbolos.png","x":-1260,"y":-340,"width":236,"height":295},
 		{"id":"b43c8eab55ad5133","type":"file","file":"Runas_tela_inicial.png","x":-960,"y":-480,"width":300,"height":225},
-		{"id":"cbd7c25b16419b19","type":"file","file":"Deus do medo.png","x":-775,"y":-722,"width":230,"height":195}
+		{"id":"cbd7c25b16419b19","type":"file","file":"Deus do medo.png","x":-775,"y":-722,"width":230,"height":195},
+		{"id":"82c0019101436b54","x":-1040,"y":-888,"width":160,"height":166,"type":"file","file":"Pasted image 20241215140711.png"}
 	],
 	"edges":[
 		{"id":"5acf20f5ff36b2e0","fromNode":"e3b96ccf11422c46","fromSide":"left","toNode":"762e8fad6865e07f","toSide":"left","label":"Strach??\nSímbolos"},
 		{"id":"f6a6b79bd6a4792a","fromNode":"762e8fad6865e07f","fromSide":"right","toNode":"b43c8eab55ad5133","toSide":"bottom","label":"Mesmos Símbolos"},
-		{"id":"872442ba672c0254","fromNode":"e3b96ccf11422c46","fromSide":"right","toNode":"cbd7c25b16419b19","toSide":"left","label":"Obsessão com o Medo"}
+		{"id":"872442ba672c0254","fromNode":"e3b96ccf11422c46","fromSide":"right","toNode":"cbd7c25b16419b19","toSide":"left","label":"Obsessão com o Medo"},
+		{"id":"4ee2447d0e1bfb20","fromNode":"cbd7c25b16419b19","fromSide":"top","toNode":"82c0019101436b54","toSide":"right","label":"Qual é a Relação???"},
+		{"id":"cb76b9de02234cd0","fromNode":"82c0019101436b54","fromSide":"left","toNode":"e3b96ccf11422c46","toSide":"top","label":"Alterou Eles"}
 	]
 }

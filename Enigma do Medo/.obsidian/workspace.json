@@ -11,15 +11,17 @@
             "id": "ace17cdbec9a1ecd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Documentos/Meu Diário de Evidências.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "Deus do Medo.canvas",
+                "viewState": {
+                  "x": -713.699951171875,
+                  "y": -492.70001220703125,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "Meu Diário de Evidências"
+              "icon": "lucide-layout-dashboard",
+              "title": "Deus do Medo"
             }
           }
         ]
@@ -166,16 +168,17 @@
   },
   "active": "ace17cdbec9a1ecd",
   "lastOpenFiles": [
-    "Equipe Elite.canvas",
+    "Pasted image 20241215140711.png",
+    "Documentos/Família Strach.md",
     "Documentos/Meu Diário de Evidências.md",
+    "Equipe Elite.canvas",
     "Pasted image 20241215135646.png",
     "Pasted image 20241215135620.png",
     "Pasted image 20241215135521.png",
-    "Mapa_mental.canvas",
+    "Deus do Medo.canvas",
     "Perimetro.png",
     "Deus do medo.png",
     "Ficha de Agente Calisto Besatt.png",
-    "Documentos/Família Strach.md",
     "Família Símbolos.png",
     "Família [starch].png",
     "CNH_Verissimo.png",
