@@ -11,13 +11,8 @@
             "id": "ee12271e697b91de",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "História/História 13.03.2024.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -70,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "580c4ebe16791769",
@@ -87,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "História/História 13.03.2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "História/História 13.03.2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "História/História 13.03.2024.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -149,7 +139,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ee12271e697b91de",
+  "active": "6aa76de44b18bcb5",
   "lastOpenFiles": [
     "História/História 13.03.2024.md",
     "Renascença.md",
