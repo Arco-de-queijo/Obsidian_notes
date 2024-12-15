@@ -15,9 +15,9 @@
               "state": {
                 "file": "Deus do Medo.canvas",
                 "viewState": {
-                  "x": -780.4700239808153,
+                  "x": -820,
                   "y": -371,
-                  "zoom": -1.1013028820343638
+                  "zoom": -1.2790900012496467
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -28,57 +28,19 @@
             "id": "4beda23a0bfa9766",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Runas Porão.png"
+                "file": "Documentos/Meu Diário de Evidências.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Runas Porão"
-            }
-          },
-          {
-            "id": "125a1a44e064bd1f",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Família [starch].png"
-              },
-              "icon": "lucide-image",
-              "title": "Família [starch]"
-            }
-          },
-          {
-            "id": "15987ed34a5f0572",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Família Símbolos.png"
-              },
-              "icon": "lucide-image",
-              "title": "Família Símbolos"
-            }
-          },
-          {
-            "id": "2fb1d52cc4cd437b",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Equipe Elite.canvas",
-                "viewState": {
-                  "x": -9,
-                  "y": -12.5,
-                  "zoom": -0.09893586749044779
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Equipe Elite"
+              "icon": "lucide-file",
+              "title": "Meu Diário de Evidências"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -220,21 +182,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2fb1d52cc4cd437b",
+  "active": "4beda23a0bfa9766",
   "lastOpenFiles": [
-    "Pasted image 20241215152928.png",
-    "Mapa Mansão.png",
-    "Runas Porão.png",
-    "Deus do Medo.canvas",
-    "Pasted image 20241215150202.png",
-    "Pasted image 20241215150159.png",
-    "Pasted image 20241215150140.png",
-    "Pasted image 20241215150132.png",
-    "Família [starch].png",
-    "Pasted image 20241215145541.png",
-    "Pasted image 20241215145529.png",
-    "Andrea Strach.png",
     "Equipe Elite.canvas",
+    "Deus do Medo.canvas",
+    "Família Símbolos.png",
+    "Família [starch].png",
+    "Mapas",
+    "Mapas/Mapa Subsolo.png",
+    "Pasted image 20241215153046.png",
+    "Pasted image 20241215153043.png",
+    "Runas Porão.png",
+    "Pasted image 20241215153013.png",
+    "Pasted image 20241215153011.png",
+    "Pasted image 20241215152928.png",
+    "Mapas/Mapa Mansão.png",
     "Documentos/Família Strach.md",
     "Documentos/Meu Diário de Evidências.md",
     "Documentos",
