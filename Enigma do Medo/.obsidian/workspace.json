@@ -11,17 +11,15 @@
             "id": "ace17cdbec9a1ecd",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Mapa_mental.canvas",
-                "viewState": {
-                  "x": 120,
-                  "y": -150,
-                  "zoom": 0
-                }
+                "file": "Documentos/Meu Diário de Evidências.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Mapa_mental"
+              "icon": "lucide-file",
+              "title": "Meu Diário de Evidências"
             }
           }
         ]
@@ -168,8 +166,8 @@
   },
   "active": "ace17cdbec9a1ecd",
   "lastOpenFiles": [
-    "Documentos/Meu Diário de Evidências.md",
     "Mapa_mental.canvas",
+    "Documentos/Meu Diário de Evidências.md",
     "Documentos",
     "Runas_tela_inicial.png",
     "Divina Comédia - Dante.md",
