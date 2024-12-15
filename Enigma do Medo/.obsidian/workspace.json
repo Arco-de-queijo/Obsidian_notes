@@ -16,7 +16,7 @@
                 "file": "Deus do Medo.canvas",
                 "viewState": {
                   "x": -820,
-                  "y": -371,
+                  "y": -510,
                   "zoom": -1.2790900012496467
                 }
               },
@@ -25,16 +25,16 @@
             }
           },
           {
-            "id": "258b7270ea72b98e",
+            "id": "f73e33c99667dc81",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "Equipe Elite.canvas",
                 "viewState": {
-                  "x": -9,
-                  "y": -22.5,
-                  "zoom": -0.09893586749044779
+                  "x": 95.5,
+                  "y": -40,
+                  "zoom": -0.3274070690598786
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -42,7 +42,7 @@
             }
           },
           {
-            "id": "4beda23a0bfa9766",
+            "id": "258b7270ea72b98e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -199,12 +199,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "258b7270ea72b98e",
+  "active": "f73e33c99667dc81",
   "lastOpenFiles": [
-    "Carta do Oswaldo para o Calisto.png",
-    "Documentos/Meu Diário de Evidências.md",
-    "Equipe Elite.canvas",
+    "Pasted image 20241215164851.png",
     "Deus do Medo.canvas",
+    "Pasted image 20241215164739.png",
+    "Equipe Elite.canvas",
+    "Documentos/Meu Diário de Evidências.md",
+    "CNH_Verissimo.png",
+    "Carta do Oswaldo para o Calisto.png",
     "Família Símbolos.png",
     "Família [starch].png",
     "Mapas",
@@ -213,9 +216,6 @@
     "Pasted image 20241215153043.png",
     "Runas Porão.png",
     "Pasted image 20241215153013.png",
-    "Pasted image 20241215153011.png",
-    "Pasted image 20241215152928.png",
-    "Mapas/Mapa Mansão.png",
     "Documentos/Família Strach.md",
     "Documentos",
     "Divina Comédia - Dante.md",

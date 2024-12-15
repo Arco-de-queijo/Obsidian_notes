@@ -1,6 +1,5 @@
 {
 	"nodes":[
-		{"id":"2892076128b1138e","type":"file","file":"CNH_Verissimo.png","x":400,"y":200,"width":200,"height":115},
 		{"id":"f2c44689472d39c9","type":"file","file":"Ficha de Agente Calisto Besatt.png","x":458,"y":26,"width":142,"height":136},
 		{"id":"c2c513ee991ed4ff","type":"file","file":"Perimetro.png","x":-600,"y":-340,"width":280,"height":270},
 		{"id":"1b04180c8366c7ca","type":"file","file":"Pasted image 20241215135521.png","x":-320,"y":-150,"width":107,"height":80},
@@ -10,7 +9,9 @@
 		{"id":"96dd5b4ddfe542af","type":"file","file":"Pasted image 20241215153046.png","x":-80,"y":-100,"width":249,"height":153},
 		{"id":"b985fec52318b3e4","type":"file","file":"Pasted image 20241215153043.png","x":-80,"y":53,"width":250,"height":156},
 		{"id":"1ebe2d57cbaf6deb","type":"file","file":"Carta do Verissimo para a Mia.png","x":458,"y":-395,"width":142,"height":190},
-		{"id":"189544fc3cf90eba","type":"file","file":"Carta do Oswaldo para o Calisto.png","x":458,"y":-205,"width":142,"height":173}
+		{"id":"189544fc3cf90eba","type":"file","file":"Carta do Oswaldo para o Calisto.png","x":458,"y":-205,"width":142,"height":173},
+		{"id":"b180810489982db6","x":600,"y":24,"width":209,"height":138,"type":"file","file":"Pasted image 20241215164851.png"},
+		{"id":"2892076128b1138e","type":"file","file":"CNH_Verissimo.png","x":458,"y":200,"width":200,"height":115}
 	],
 	"edges":[]
 }

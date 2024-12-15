@@ -10,12 +10,13 @@
 		{"id":"b43c8eab55ad5133","type":"file","file":"Runas_tela_inicial.png","x":-1235,"y":-325,"width":300,"height":225},
 		{"id":"762e8fad6865e07f","type":"file","file":"Família Símbolos.png","x":-1600,"y":-120,"width":236,"height":295},
 		{"id":"1f4bb2c767106f5e","type":"file","file":"Andrea Strach.png","x":-1686,"y":-947,"width":172,"height":227},
-		{"id":"2abe0d8778c1b65a","x":-160,"y":-764,"width":200,"height":273,"type":"file","file":"Pasted image 20241215145529.png"},
-		{"id":"887387fe171fb64f","x":40,"y":-592,"width":280,"height":101,"type":"file","file":"Pasted image 20241215145541.png"},
-		{"id":"1f7dd9469ee1ba66","x":-1015,"y":28,"width":268,"height":247,"type":"file","file":"Runas Porão.png"},
-		{"id":"c94b84b3bc3aed57","x":320,"y":-32,"width":240,"height":184,"type":"file","file":"Pasted image 20241215150140.png"},
-		{"id":"6d989de7477a4519","x":-243,"y":-108,"width":217,"height":212,"type":"file","file":"Pasted image 20241215150202.png"},
-		{"id":"4e1542c54dd52f24","x":-26,"y":-100,"width":223,"height":204,"type":"file","file":"Pasted image 20241215150159.png"}
+		{"id":"2abe0d8778c1b65a","type":"file","file":"Pasted image 20241215145529.png","x":-160,"y":-764,"width":200,"height":273},
+		{"id":"887387fe171fb64f","type":"file","file":"Pasted image 20241215145541.png","x":40,"y":-592,"width":280,"height":101},
+		{"id":"1f7dd9469ee1ba66","type":"file","file":"Runas Porão.png","x":-1015,"y":28,"width":268,"height":247},
+		{"id":"c94b84b3bc3aed57","type":"file","file":"Pasted image 20241215150140.png","x":320,"y":-32,"width":240,"height":184},
+		{"id":"6d989de7477a4519","type":"file","file":"Pasted image 20241215150202.png","x":-243,"y":-108,"width":217,"height":212},
+		{"id":"4e1542c54dd52f24","type":"file","file":"Pasted image 20241215150159.png","x":-26,"y":-100,"width":223,"height":204},
+		{"id":"ae18f5dfd001d8d2","x":-160,"y":-1320,"width":200,"height":278,"type":"file","file":"Pasted image 20241215164739.png"}
 	],
 	"edges":[
 		{"id":"5acf20f5ff36b2e0","fromNode":"e3b96ccf11422c46","fromSide":"bottom","toNode":"762e8fad6865e07f","toSide":"top","label":"Strach??\nSímbolos"},
