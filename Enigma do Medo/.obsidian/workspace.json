@@ -25,24 +25,60 @@
             }
           },
           {
-            "id": "2fb1d52cc4cd437b",
+            "id": "965173310497b286",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Deus do Medo.canvas",
+                "file": "Equipe Elite.canvas",
                 "viewState": {
-                  "x": -980,
-                  "y": -371,
-                  "zoom": -1.1013028820343638
+                  "x": -9,
+                  "y": -12.5,
+                  "zoom": -0.09893586749044779
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Deus do Medo"
+              "title": "Equipe Elite"
+            }
+          },
+          {
+            "id": "125a1a44e064bd1f",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Família [starch].png"
+              },
+              "icon": "lucide-image",
+              "title": "Família [starch]"
+            }
+          },
+          {
+            "id": "15987ed34a5f0572",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Família Símbolos.png"
+              },
+              "icon": "lucide-image",
+              "title": "Família Símbolos"
+            }
+          },
+          {
+            "id": "2fb1d52cc4cd437b",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Mapa Mansão.png"
+              },
+              "icon": "lucide-image",
+              "title": "Mapa Mansão"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -186,21 +222,20 @@
   },
   "active": "2fb1d52cc4cd437b",
   "lastOpenFiles": [
+    "Família Símbolos.png",
+    "Família [starch].png",
+    "Mapa Mansão.png",
+    "Equipe Elite.canvas",
+    "Deus do Medo.canvas",
+    "Deus do medo.png",
     "Pasted image 20241215142520.png",
     "Pasted image 20241215142152.png",
     "Pasted image 20241215142056.png",
     "Pasted image 20241215142020.png",
-    "Mapa Mansão.png",
-    "Deus do Medo.canvas",
-    "Equipe Elite.canvas",
     "Pasted image 20241215140711.png",
     "Documentos/Família Strach.md",
     "Documentos/Meu Diário de Evidências.md",
     "Pasted image 20241215135646.png",
-    "Pasted image 20241215135620.png",
-    "Pasted image 20241215135521.png",
-    "Perimetro.png",
-    "Deus do medo.png",
     "Documentos",
     "Divina Comédia - Dante.md",
     "A Criação de Adão.md",
