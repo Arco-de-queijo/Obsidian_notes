@@ -25,6 +25,23 @@
             }
           },
           {
+            "id": "258b7270ea72b98e",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Equipe Elite.canvas",
+                "viewState": {
+                  "x": -9,
+                  "y": -22.5,
+                  "zoom": -0.09893586749044779
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Equipe Elite"
+            }
+          },
+          {
             "id": "4beda23a0bfa9766",
             "type": "leaf",
             "state": {
@@ -182,8 +199,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4beda23a0bfa9766",
+  "active": "258b7270ea72b98e",
   "lastOpenFiles": [
+    "Carta do Oswaldo para o Calisto.png",
+    "Documentos/Meu Diário de Evidências.md",
     "Equipe Elite.canvas",
     "Deus do Medo.canvas",
     "Família Símbolos.png",
@@ -198,7 +217,6 @@
     "Pasted image 20241215152928.png",
     "Mapas/Mapa Mansão.png",
     "Documentos/Família Strach.md",
-    "Documentos/Meu Diário de Evidências.md",
     "Documentos",
     "Divina Comédia - Dante.md",
     "A Criação de Adão.md",
