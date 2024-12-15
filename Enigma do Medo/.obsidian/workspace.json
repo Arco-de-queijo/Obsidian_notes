@@ -28,12 +28,17 @@
             "id": "2fb1d52cc4cd437b",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "canvas",
               "state": {
-                "file": "Mapa Mansão.png"
+                "file": "Deus do Medo.canvas",
+                "viewState": {
+                  "x": -980,
+                  "y": -371,
+                  "zoom": -1.1013028820343638
+                }
               },
-              "icon": "lucide-image",
-              "title": "Mapa Mansão"
+              "icon": "lucide-layout-dashboard",
+              "title": "Deus do Medo"
             }
           }
         ],
@@ -93,7 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 241.5
   },
   "right": {
     "id": "580c4ebe16791769",
@@ -181,9 +186,13 @@
   },
   "active": "2fb1d52cc4cd437b",
   "lastOpenFiles": [
+    "Pasted image 20241215142520.png",
+    "Pasted image 20241215142152.png",
+    "Pasted image 20241215142056.png",
+    "Pasted image 20241215142020.png",
+    "Mapa Mansão.png",
     "Deus do Medo.canvas",
     "Equipe Elite.canvas",
-    "Mapa Mansão.png",
     "Pasted image 20241215140711.png",
     "Documentos/Família Strach.md",
     "Documentos/Meu Diário de Evidências.md",
@@ -192,9 +201,6 @@
     "Pasted image 20241215135521.png",
     "Perimetro.png",
     "Deus do medo.png",
-    "Ficha de Agente Calisto Besatt.png",
-    "Família Símbolos.png",
-    "Família [starch].png",
     "Documentos",
     "Divina Comédia - Dante.md",
     "A Criação de Adão.md",
