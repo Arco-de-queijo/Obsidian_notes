@@ -15,8 +15,8 @@
               "state": {
                 "file": "Deus do Medo.canvas",
                 "viewState": {
-                  "x": -276.40690694490297,
-                  "y": -369.01416663024145,
+                  "x": -820,
+                  "y": -510,
                   "zoom": -1.2790900012496467
                 }
               },
@@ -32,9 +32,9 @@
               "state": {
                 "file": "Equipe Elite.canvas",
                 "viewState": {
-                  "x": 616.9011242502922,
-                  "y": 190.82034194876877,
-                  "zoom": 0.339259597606788
+                  "x": 95.5,
+                  "y": 26.5,
+                  "zoom": -0.3274070690598786
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -140,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mapa_mental.canvas",
+                "file": "Deus do Medo.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Mapa_mental"
+              "title": "Backlinks for Deus do Medo"
             }
           },
           {
@@ -159,12 +159,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mapa_mental.canvas",
+                "file": "Deus do Medo.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Mapa_mental"
+              "title": "Outgoing links from Deus do Medo"
             }
           },
           {
@@ -192,8 +192,7 @@
               "title": "Outline of Mapa_mental"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -212,11 +211,12 @@
   },
   "active": "ace17cdbec9a1ecd",
   "lastOpenFiles": [
-    "Pasted image 20241215150159.png",
+    "Pasted image 20241215171643.png",
+    "Equipe Elite.canvas",
     "Deus do Medo.canvas",
+    "Pasted image 20241215150159.png",
     "Pasted image 20241215170534.png",
     "Mapas/Mapa Subsolo.png",
-    "Equipe Elite.canvas",
     "talvez data de aniversário da Mia.png",
     "Pasted image 20241215165018.png",
     "CNH_Verissimo.png",
@@ -225,7 +225,6 @@
     "Documentos/Meu Diário de Evidências.md",
     "Carta do Oswaldo para o Calisto.png",
     "Família Símbolos.png",
-    "Família [starch].png",
     "Mapas",
     "Documentos/Família Strach.md",
     "Documentos",
