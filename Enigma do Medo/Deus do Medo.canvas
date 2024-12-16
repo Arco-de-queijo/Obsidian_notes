@@ -19,7 +19,8 @@
 		{"id":"dd8367dbc06cedd1","type":"file","file":"Pasted image 20241215170534.png","x":-21,"y":-279,"width":218,"height":171},
 		{"id":"c4d0f13ae6474574","type":"file","file":"Pasted image 20241215171643.png","x":40,"y":-1320,"width":242,"height":212},
 		{"id":"82c0019101436b54","type":"file","file":"Pasted image 20241215140711.png","x":-1143,"y":-1030,"width":160,"height":166},
-		{"id":"c32a1af9f6052b96","x":-917,"y":-1466,"width":257,"height":146,"type":"file","file":"Pasted image 20241215223001.png"}
+		{"id":"c32a1af9f6052b96","x":-917,"y":-1466,"width":257,"height":146,"type":"file","file":"Pasted image 20241215223001.png"},
+		{"id":"041f88230ac7a93e","x":43,"y":-1073,"width":275,"height":170,"type":"file","file":"Pasted image 20241215224150.png"}
 	],
 	"edges":[
 		{"id":"5acf20f5ff36b2e0","fromNode":"e3b96ccf11422c46","fromSide":"bottom","toNode":"762e8fad6865e07f","toSide":"top","label":"Strach??\nSímbolos"},
