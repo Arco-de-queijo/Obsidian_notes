@@ -5,8 +5,6 @@
 		{"id":"1b04180c8366c7ca","type":"file","file":"Pasted image 20241215135521.png","x":-320,"y":-150,"width":107,"height":80},
 		{"id":"5334d932a4f99b5b","type":"file","file":"Pasted image 20241215135646.png","x":-618,"y":-70,"width":316,"height":50},
 		{"id":"35b4c4089c29672f","type":"file","file":"Pasted image 20241215135620.png","x":-600,"y":-18,"width":280,"height":276},
-		{"id":"1ebe2d57cbaf6deb","type":"file","file":"Carta do Verissimo para a Mia.png","x":458,"y":-395,"width":142,"height":190},
-		{"id":"189544fc3cf90eba","type":"file","file":"Carta do Oswaldo para o Calisto.png","x":458,"y":-205,"width":142,"height":173},
 		{"id":"b180810489982db6","type":"file","file":"Pasted image 20241215164851.png","x":600,"y":24,"width":209,"height":138},
 		{"id":"2892076128b1138e","type":"file","file":"CNH_Verissimo.png","x":458,"y":200,"width":200,"height":115},
 		{"id":"bd45beca1ac4308c","type":"file","file":"Pasted image 20241215165018.png","x":312,"y":200,"width":146,"height":174},
@@ -15,8 +13,13 @@
 		{"id":"d48922e1cbb4d787","type":"file","file":"Pasted image 20241215152928.png","x":0,"y":-395,"width":250,"height":260},
 		{"id":"4c89c1a880feff83","type":"file","file":"3945.png","x":-266,"y":234,"width":220,"height":106},
 		{"id":"bc2754e9fb9a519f","type":"file","file":"talvez data de aniversário da Mia.png","x":-266,"y":340,"width":220,"height":97},
-		{"id":"1a37402a01285b3d","x":458,"y":-596,"width":142,"height":201,"type":"file","file":"Pasted image 20241215180320.png"},
-		{"id":"07c8522385001c29","x":600,"y":-585,"width":127,"height":190,"type":"file","file":"Pasted image 20241215180329.png"}
+		{"id":"1a37402a01285b3d","type":"file","file":"Pasted image 20241215180320.png","x":458,"y":-596,"width":142,"height":201},
+		{"id":"07c8522385001c29","type":"file","file":"Pasted image 20241215180329.png","x":600,"y":-585,"width":127,"height":190},
+		{"id":"1ebe2d57cbaf6deb","type":"file","file":"Carta do Verissimo para a Mia.png","x":656,"y":200,"width":142,"height":190},
+		{"id":"52678268845870ba","x":458,"y":-265,"width":138,"height":56,"type":"file","file":"Pasted image 20241215221214.png"},
+		{"id":"0719c6e216c4b008","x":458,"y":-209,"width":138,"height":92,"type":"file","file":"Pasted image 20241215221220.png"},
+		{"id":"2638cf0000ec1713","x":600,"y":-207,"width":133,"height":89,"type":"file","file":"Pasted image 20241215221243.png"},
+		{"id":"189544fc3cf90eba","type":"file","file":"Carta do Oswaldo para o Calisto.png","x":738,"y":-293,"width":142,"height":173}
 	],
 	"edges":[]
 }

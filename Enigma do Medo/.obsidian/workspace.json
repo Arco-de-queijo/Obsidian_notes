@@ -32,8 +32,8 @@
               "state": {
                 "file": "Equipe Elite.canvas",
                 "viewState": {
-                  "x": 95.5,
-                  "y": -79.5,
+                  "x": 461.0655906779518,
+                  "y": -18.572374437961123,
                   "zoom": -0.6070962423597568
                 }
               },
@@ -68,7 +68,8 @@
               "title": "Meu Diário de Evidências"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -209,21 +210,58 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ace17cdbec9a1ecd",
+  "floating": {
+    "id": "649eec52a9d7221a",
+    "type": "floating",
+    "children": [
+      {
+        "id": "c7f4684c20349f43",
+        "type": "window",
+        "children": [
+          {
+            "id": "f048322d9b3ccd3d",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "581168ee43fe40ce",
+                "type": "leaf",
+                "state": {
+                  "type": "image",
+                  "state": {
+                    "file": "Pasted image 20241215221214.png"
+                  },
+                  "icon": "lucide-image",
+                  "title": "Pasted image 20241215221214"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 256,
+        "y": 12,
+        "width": 1024,
+        "height": 800,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "581168ee43fe40ce",
   "lastOpenFiles": [
-    "Documentos/Meu Diário de Evidências.md",
     "Equipe Elite.canvas",
-    "Mapas/Mapa Subsolo.png",
+    "Pasted image 20241215221243.png",
+    "Pasted image 20241215221220.png",
+    "Pasted image 20241215221214.png",
     "Deus do Medo.canvas",
+    "Documentos/Meu Diário de Evidências.md",
+    "Mapas/Mapa Subsolo.png",
     "3945.png",
     "Pasted image 20241215180329.png",
     "Pasted image 20241215180320.png",
     "Pasted image 20241215171643.png",
     "Pasted image 20241215150159.png",
     "Pasted image 20241215170534.png",
-    "talvez data de aniversário da Mia.png",
-    "Pasted image 20241215165018.png",
-    "CNH_Verissimo.png",
     "Mapas",
     "Documentos/Família Strach.md",
     "Documentos",
