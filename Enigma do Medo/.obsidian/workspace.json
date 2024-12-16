@@ -28,17 +28,12 @@
             "id": "f73e33c99667dc81",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "image",
               "state": {
-                "file": "Equipe Elite.canvas",
-                "viewState": {
-                  "x": 461.0655906779518,
-                  "y": -18.572374437961123,
-                  "zoom": -0.6070962423597568
-                }
+                "file": "Mapa Caverna.png"
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Equipe Elite"
+              "icon": "lucide-image",
+              "title": "Mapa Caverna"
             }
           },
           {
@@ -210,58 +205,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "floating": {
-    "id": "649eec52a9d7221a",
-    "type": "floating",
-    "children": [
-      {
-        "id": "c7f4684c20349f43",
-        "type": "window",
-        "children": [
-          {
-            "id": "f048322d9b3ccd3d",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "581168ee43fe40ce",
-                "type": "leaf",
-                "state": {
-                  "type": "image",
-                  "state": {
-                    "file": "Pasted image 20241215221214.png"
-                  },
-                  "icon": "lucide-image",
-                  "title": "Pasted image 20241215221214"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 256,
-        "y": 12,
-        "width": 1024,
-        "height": 800,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "581168ee43fe40ce",
+  "active": "6aa76de44b18bcb5",
   "lastOpenFiles": [
     "Equipe Elite.canvas",
-    "Pasted image 20241215221243.png",
-    "Pasted image 20241215221220.png",
-    "Pasted image 20241215221214.png",
-    "Deus do Medo.canvas",
-    "Documentos/Meu Diário de Evidências.md",
+    "Mapa Caverna.png",
     "Mapas/Mapa Subsolo.png",
-    "3945.png",
+    "Pasted image 20241215153046.png",
+    "Pasted image 20241215221921.png",
     "Pasted image 20241215180329.png",
     "Pasted image 20241215180320.png",
-    "Pasted image 20241215171643.png",
-    "Pasted image 20241215150159.png",
-    "Pasted image 20241215170534.png",
+    "Pasted image 20241215221542.png",
+    "Pasted image 20241215221512.png",
+    "Pasted image 20241215221504.png",
+    "Deus do Medo.canvas",
+    "Pasted image 20241215221214.png",
+    "Documentos/Meu Diário de Evidências.md",
     "Mapas",
     "Documentos/Família Strach.md",
     "Documentos",
