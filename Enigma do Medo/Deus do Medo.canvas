@@ -5,7 +5,6 @@
 		{"id":"cbd7c25b16419b19","type":"file","file":"Deus do medo.png","x":-660,"y":-759,"width":230,"height":195},
 		{"id":"e3b96ccf11422c46","type":"file","file":"Família [starch].png","x":-1420,"y":-669,"width":240,"height":295},
 		{"id":"c7fa50372b494cc7","type":"file","file":"Pasted image 20241215142152.png","x":-2200,"y":-661,"width":360,"height":287},
-		{"id":"82c0019101436b54","type":"file","file":"Pasted image 20241215140711.png","x":-1095,"y":-1042,"width":160,"height":166},
 		{"id":"026e0535fdaa7547","type":"file","file":"Pasted image 20241215142520.png","x":-722,"y":-100,"width":355,"height":400},
 		{"id":"b43c8eab55ad5133","type":"file","file":"Runas_tela_inicial.png","x":-1235,"y":-325,"width":300,"height":225},
 		{"id":"762e8fad6865e07f","type":"file","file":"Família Símbolos.png","x":-1600,"y":-120,"width":236,"height":295},
@@ -18,7 +17,9 @@
 		{"id":"4e1542c54dd52f24","type":"file","file":"Pasted image 20241215150159.png","x":-26,"y":-100,"width":223,"height":203},
 		{"id":"ae18f5dfd001d8d2","type":"file","file":"Pasted image 20241215164739.png","x":-160,"y":-1320,"width":200,"height":278},
 		{"id":"dd8367dbc06cedd1","type":"file","file":"Pasted image 20241215170534.png","x":-21,"y":-279,"width":218,"height":171},
-		{"id":"c4d0f13ae6474574","type":"file","file":"Pasted image 20241215171643.png","x":40,"y":-1320,"width":242,"height":212}
+		{"id":"c4d0f13ae6474574","type":"file","file":"Pasted image 20241215171643.png","x":40,"y":-1320,"width":242,"height":212},
+		{"id":"82c0019101436b54","type":"file","file":"Pasted image 20241215140711.png","x":-1143,"y":-1030,"width":160,"height":166},
+		{"id":"c32a1af9f6052b96","x":-917,"y":-1466,"width":257,"height":146,"type":"file","file":"Pasted image 20241215223001.png"}
 	],
 	"edges":[
 		{"id":"5acf20f5ff36b2e0","fromNode":"e3b96ccf11422c46","fromSide":"bottom","toNode":"762e8fad6865e07f","toSide":"top","label":"Strach??\nSímbolos"},
@@ -28,6 +29,8 @@
 		{"id":"cb76b9de02234cd0","fromNode":"82c0019101436b54","fromSide":"left","toNode":"e3b96ccf11422c46","toSide":"top","label":"Alterou Eles"},
 		{"id":"129166e8518ba805","fromNode":"da5671c00672dce6","fromSide":"left","toNode":"cbd7c25b16419b19","toSide":"right"},
 		{"id":"072277cf0dc7ec94","fromNode":"e3b96ccf11422c46","fromSide":"left","toNode":"c7fa50372b494cc7","toSide":"right","label":"Desenho de criança?"},
-		{"id":"3a47fd74b43461ef","fromNode":"026e0535fdaa7547","fromSide":"top","toNode":"b43c8eab55ad5133","toSide":"right","label":"Outros Simbolos?"}
+		{"id":"3a47fd74b43461ef","fromNode":"026e0535fdaa7547","fromSide":"top","toNode":"b43c8eab55ad5133","toSide":"right","label":"Outros Simbolos?"},
+		{"id":"f004518c2e8aee6f","fromNode":"c32a1af9f6052b96","fromSide":"bottom","toNode":"82c0019101436b54","toSide":"top","label":"Olhos???"},
+		{"id":"3bb561fbb785a890","fromNode":"c32a1af9f6052b96","fromSide":"right","toNode":"cbd7c25b16419b19","toSide":"top","label":"Olho == Observar"}
 	]
 }

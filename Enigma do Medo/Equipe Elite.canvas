@@ -18,12 +18,15 @@
 		{"id":"0719c6e216c4b008","type":"file","file":"Pasted image 20241215221220.png","x":463,"y":-137,"width":137,"height":92},
 		{"id":"2638cf0000ec1713","type":"file","file":"Pasted image 20241215221243.png","x":605,"y":-135,"width":133,"height":89},
 		{"id":"189544fc3cf90eba","type":"file","file":"Carta do Oswaldo para o Calisto.png","x":743,"y":-221,"width":142,"height":173},
-		{"id":"1334f836c16885d4","x":458,"y":-362,"width":131,"height":97,"type":"file","file":"Pasted image 20241215221504.png"},
-		{"id":"eb1d0573024990cd","x":589,"y":-362,"width":135,"height":98,"type":"file","file":"Pasted image 20241215221512.png"},
-		{"id":"d205f26620a4b245","x":458,"y":-423,"width":131,"height":56,"type":"file","file":"Pasted image 20241215221542.png"},
+		{"id":"1334f836c16885d4","type":"file","file":"Pasted image 20241215221504.png","x":458,"y":-362,"width":131,"height":97},
+		{"id":"eb1d0573024990cd","type":"file","file":"Pasted image 20241215221512.png","x":589,"y":-362,"width":135,"height":98},
+		{"id":"d205f26620a4b245","type":"file","file":"Pasted image 20241215221542.png","x":458,"y":-423,"width":131,"height":56},
 		{"id":"1a37402a01285b3d","type":"file","file":"Pasted image 20241215180320.png","x":447,"y":-740,"width":142,"height":201},
 		{"id":"07c8522385001c29","type":"file","file":"Pasted image 20241215180329.png","x":589,"y":-729,"width":127,"height":190},
-		{"id":"faccd09946b74f0d","x":724,"y":-386,"width":197,"height":121,"type":"file","file":"Pasted image 20241215221921.png"}
+		{"id":"faccd09946b74f0d","type":"file","file":"Pasted image 20241215221921.png","x":724,"y":-386,"width":197,"height":121},
+		{"id":"e1ab65e01b5217f0","x":921,"y":-411,"width":237,"height":142,"type":"file","file":"Pasted image 20241215222605.png"},
+		{"id":"ec712124f4c6c679","x":1158,"y":-559,"width":262,"height":148,"type":"file","file":"Pasted image 20241215222826.png"},
+		{"id":"9f34fff711e48cda","x":1158,"y":-411,"width":268,"height":208,"type":"file","file":"Pasted image 20241215222905.png"}
 	],
 	"edges":[]
 }

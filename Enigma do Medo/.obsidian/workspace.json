@@ -16,8 +16,8 @@
                 "file": "Deus do Medo.canvas",
                 "viewState": {
                   "x": -820,
-                  "y": -510,
-                  "zoom": -1.2790900012496467
+                  "y": -583,
+                  "zoom": -1.380741331143163
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -28,24 +28,29 @@
             "id": "f73e33c99667dc81",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "canvas",
               "state": {
-                "file": "Mapa Caverna.png"
+                "file": "Equipe Elite.canvas",
+                "viewState": {
+                  "x": 414,
+                  "y": -151.5,
+                  "zoom": -0.8598647050073694
+                }
               },
-              "icon": "lucide-image",
-              "title": "Mapa Caverna"
+              "icon": "lucide-layout-dashboard",
+              "title": "Equipe Elite"
             }
           },
           {
-            "id": "37c2690bc0f6ebec",
+            "id": "9463899de67c6dc4",
             "type": "leaf",
             "state": {
               "type": "image",
               "state": {
-                "file": "Mapas/Mapa Subsolo.png"
+                "file": "Mapas/Mapa Caverna.png"
               },
               "icon": "lucide-image",
-              "title": "Mapa Subsolo"
+              "title": "Mapa Caverna"
             }
           },
           {
@@ -63,8 +68,7 @@
               "title": "Meu Diário de Evidências"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -205,20 +209,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6aa76de44b18bcb5",
+  "active": "ace17cdbec9a1ecd",
   "lastOpenFiles": [
+    "Pasted image 20241215140711.png",
+    "Deus do Medo.canvas",
+    "Pasted image 20241215223001.png",
     "Equipe Elite.canvas",
-    "Mapa Caverna.png",
+    "Pasted image 20241215222905.png",
+    "Pasted image 20241215222826.png",
+    "Ficha de Agente Calisto Besatt.png",
+    "Pasted image 20241215222605.png",
+    "Mapas/Mapa Caverna.png",
     "Mapas/Mapa Subsolo.png",
     "Pasted image 20241215153046.png",
     "Pasted image 20241215221921.png",
     "Pasted image 20241215180329.png",
-    "Pasted image 20241215180320.png",
-    "Pasted image 20241215221542.png",
-    "Pasted image 20241215221512.png",
-    "Pasted image 20241215221504.png",
-    "Deus do Medo.canvas",
-    "Pasted image 20241215221214.png",
     "Documentos/Meu Diário de Evidências.md",
     "Mapas",
     "Documentos/Família Strach.md",
